@@ -1,10 +1,10 @@
 # Book Mark Desktop App
 
 ### This is an Desktop electron app where :-
-- We can add our website 
-- Can read the added website 
-- Mark as done 
-- With various shortcuts 
+- We can add our website to book a mark
+- Can read the added website later
+- Mark as done and remove
+- With various short-cuts 
 - And real-time screenshot of the website
 - Search the Title with keyword
 
@@ -14,6 +14,14 @@
 `npm run watch` 
 
 `electron-builder -wl`
+
+
+|Options|Download|
+|--|--|
+|Linux|[https://github.com/TheCBKM/Read_IT_desktop_electron_app/blob/master/buildApp/read_it-1.0.0.AppImage](https://github.com/TheCBKM/Read_IT_desktop_electron_app/blob/master/buildApp/read_it-1.0.0.AppImage)|
+|Windows|[https://github.com/TheCBKM/Read_IT_desktop_electron_app/blob/master/buildApp/read_it-1.0.0-win.zip](https://github.com/TheCBKM/Read_IT_desktop_electron_app/blob/master/buildApp/read_it-1.0.0-win.zip)|
+|Snap|[https://github.com/TheCBKM/Read_IT_desktop_electron_app/blob/master/buildApp/read_it_1.0.0_amd64.snap](https://github.com/TheCBKM/Read_IT_desktop_electron_app/blob/master/buildApp/read_it_1.0.0_amd64.snap)|
+
 
 ## Screenshots
 

@@ -9,7 +9,7 @@
     "reset": "git reset --hard",
     "build":"electron-builder --help"
   },
-  "repository": "https://github.com/stackacademytv/master-electron",
+  "repository": "https://github.com/TheCBKM/Read_IT_desktop_electron_app",
   "keywords": [
     "Electron",
     "Master Electron",

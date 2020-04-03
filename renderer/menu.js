@@ -45,7 +45,7 @@ const template = [
     submenu: [
       {
         label: 'Learn more',
-        click: () => { shell.openExternal('https://github.com/stackacademytv/master-electron') }
+        click: () => { shell.openExternal('https://github.com/TheCBKM/Read_IT_desktop_electron_app/') }
       }
     ]
   }

@@ -10,7 +10,10 @@
 
 ### For Developer
 `npm install`
+
 `npm run watch` 
+
+`electron-builder -wl`
 
 ## Screenshots
 

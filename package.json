@@ -1,0 +1,44 @@
+{
+  "name": "read_it",
+  "version": "1.0.0",
+  "description": "Master Electron Proect",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "watch": "nodemon --exec 'electron .'",
+    "reset": "git reset --hard",
+    "build":"electron-builder --help"
+  },
+  "repository": "https://github.com/stackacademytv/master-electron",
+  "keywords": [
+    "Electron",
+    "Master Electron",
+    "demo"
+  ],
+  "author": "CBKM",
+  "email":"rjoshi.prober@gmail.com",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^5.0.10",
+    "electron-builder": "^22.4.1",
+    "nodemon": "^1.19.2"
+  },
+  "dependencies": {
+    "electron-window-state": "^5.0.3"
+  },
+  "build":{
+    "appId":"in.cbkm.readit",
+    "copyright":"copyright 2020 cbkm.in",
+    "mac":{
+      "category":"public.app-category.productivity",
+      "target":"dmg"
+    },
+    "win":{
+      "target":"zip"
+    },
+    "linux":{
+      "category":"Utility",
+      "icon":"build/icons"
+    }
+  }
+}

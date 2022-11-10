@@ -19,7 +19,7 @@
   "email":"rjoshi.prober@gmail.com",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^5.0.10",
+    "electron": "^18.3.7",
     "electron-builder": "^22.4.1",
     "nodemon": "^1.19.2"
   },
